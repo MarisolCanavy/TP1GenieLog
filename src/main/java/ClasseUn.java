@@ -9,5 +9,5 @@
  * @author M_Can
  */
 public class ClasseUn {
-    //Cuicui le petit oiseau
+    //Cuicui les petits oiseaux
 }
