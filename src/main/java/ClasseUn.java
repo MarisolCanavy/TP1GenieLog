@@ -10,6 +10,6 @@
  */
 public class ClasseUn {
 
-    //Cuicui les petits oiseaux
+    //Cuicui les petits colibris
 
 }
